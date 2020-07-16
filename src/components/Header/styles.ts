@@ -28,8 +28,7 @@ export const Container = styled.div<ContainerProps>`
         }
 
         &:hover {
-          color: #ff872c;
-          border-bottom: 2px solid;
+          border-bottom: 2px solid #ff872c;
         }
       }
     }
